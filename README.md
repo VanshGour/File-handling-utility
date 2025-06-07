@@ -1,3 +1,17 @@
+#File-handling-utility
+
+*COMPANY*: CODETECH IT SOLUTIONS
+
+*NAME*: VANSH GOUR
+
+*INTERN ID*: CT04DN894
+
+*DOMAIN*: JAVA PROGRAMMING
+
+*DURATION*: 4 WEEKS
+
+*MENTOR*: NEELA SANTOSH
+
 The objective of Task 1 is to develop a Java-based file handling utility capable of performing essential file operations such as reading, writing, and modifying text files. This task helps interns gain a practical understanding of how Java interacts with the file system, which is a foundational skill for any software developer. File handling is crucial in real-world applications, from managing configuration files to logging user activities or storing data persistently.
 
 Java provides robust support for file handling through its java.io, java.nio.file, and java.util packages. Interns are expected to use these built-in libraries to create a program that demonstrates reading content from a file, writing new content to it, and modifying existing content.
